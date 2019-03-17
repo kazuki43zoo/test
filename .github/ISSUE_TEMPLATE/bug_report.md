@@ -7,18 +7,21 @@ assignees: ''
 
 ---
 
-## Describe the bug
+## Describe the bug [Required]
 A clear and concise description of what the bug is.
 
-## To Reproduce
+## Expected behavior [Required]
+A clear and concise description of what you expected to happen.
+
+## Small reproduce project [Recommended]
+A clear reproduce condition.
+
+## To Reproduce [Recommended]
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-## Expected behavior
-A clear and concise description of what you expected to happen.
-
-## Additional context
+## Additional context [Optional]
 Add any other context about the problem here.
